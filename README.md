@@ -9,8 +9,8 @@ I just used React which was mentioned in the question and bootstrap to style it 
 
 ### Are there any improvements you could make to your submission?
 
-It can be styled a bit more and I think there might a better way to update comments instead of sending the whole array as data.
+It can be styled a bit more and I think there might a better way to update comments instead of sending the whole array as data, would have to explore the json-server api more.
 
 ### What would you do differently if you were allocated more time?
 
-I think there might a better way to update comments instead of sending the whole array as data.
+I'd have explored the json-server api more.
