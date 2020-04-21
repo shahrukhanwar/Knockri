@@ -13,4 +13,4 @@
 
 ## What would you do differently if you were allocated more time?
 
-#### I would've styled it more.
+#### I think there might a better way to update comments instead of sending the whole array as data.
