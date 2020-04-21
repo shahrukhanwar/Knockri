@@ -9,7 +9,7 @@
 
 ## Are there any improvements you could make to your submission?
 
-#### It can be styled a bit more.
+#### It can be styled a bit more and I think there might a better way to update comments instead of sending the whole array as data.
 
 ## What would you do differently if you were allocated more time?
 
